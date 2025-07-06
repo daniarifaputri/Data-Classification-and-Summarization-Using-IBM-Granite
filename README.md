@@ -2,7 +2,7 @@
 
 # Nama Proyek
 
-Calculator Application for Easy User
+Zen Calc
 
 ## Daftar Isi
 *   [Deskripsi Proyek](#description-project)
@@ -13,7 +13,7 @@ Calculator Application for Easy User
 
 ## Deskripsi Proyek
 
-Aplikasi calculator ini adalah program sederhana yang dirancang untuk membantu pengguna melakukan operasi perhitungan matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Dibangun menggunakan bahasa pemrograman populer seperti Python atau JavaScript, aplikasi ini memiliki antarmuka yang intuitif dengan tombol angka dan operator yang mudah digunakan. Saat pengguna menekan tombol, input akan diproses melalui fungsi logika yang menangani setiap operasi aritmatika. Hasil perhitungan kemudian ditampilkan secara real-time pada layar. Selain itu, aplikasi ini dirancang ringan dan cepat, sehingga cocok dijalankan pada perangkat dengan spesifikasi rendah sekalipun. Dengan struktur kode yang modular, aplikasi ini juga mudah dikembangkan lebih lanjut untuk mendukung fitur lanjutan seperti perhitungan persentase, akar kuadrat, atau bahkan kalkulasi ilmiah.
+**Zen Calc** merupakan Aplikasi calculator ini adalah program sederhana yang dirancang untuk membantu pengguna melakukan operasi perhitungan matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Dibangun menggunakan bahasa pemrograman populer seperti Python atau JavaScript, aplikasi ini memiliki antarmuka yang intuitif dengan tombol angka dan operator yang mudah digunakan. Saat pengguna menekan tombol, input akan diproses melalui fungsi logika yang menangani setiap operasi aritmatika. Hasil perhitungan kemudian ditampilkan secara real-time pada layar. Selain itu, aplikasi ini dirancang ringan dan cepat, sehingga cocok dijalankan pada perangkat dengan spesifikasi rendah sekalipun. Dengan struktur kode yang modular, aplikasi ini juga mudah dikembangkan lebih lanjut untuk mendukung fitur lanjutan seperti perhitungan persentase, akar kuadrat, atau bahkan kalkulasi ilmiah.
 
 ## Pengunaan Teknologi
 Teknologi dalam aplikasi ini menggunakan bahasa pemograman Java (HTML dan CSS)
