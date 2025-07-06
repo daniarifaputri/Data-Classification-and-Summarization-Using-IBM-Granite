@@ -9,14 +9,14 @@ Calculator Application for Easy User
 *   [Penggunaan Teknologi](#technologies-used)
 *   [Fitur](#features)
 *   [Set Up Aplikasi](#setup-instructions)
-*   [Penjelasan AI Pendukung](#AI-suppurt-explanation)
+*   [Penjelasan AI Pendukung](#AI-support-explanation)
 
 ## Deskripsi Proyek
 
 Aplikasi calculator ini adalah program sederhana yang dirancang untuk membantu pengguna melakukan operasi perhitungan matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Dibangun menggunakan bahasa pemrograman populer seperti Python atau JavaScript, aplikasi ini memiliki antarmuka yang intuitif dengan tombol angka dan operator yang mudah digunakan. Saat pengguna menekan tombol, input akan diproses melalui fungsi logika yang menangani setiap operasi aritmatika. Hasil perhitungan kemudian ditampilkan secara real-time pada layar. Selain itu, aplikasi ini dirancang ringan dan cepat, sehingga cocok dijalankan pada perangkat dengan spesifikasi rendah sekalipun. Dengan struktur kode yang modular, aplikasi ini juga mudah dikembangkan lebih lanjut untuk mendukung fitur lanjutan seperti perhitungan persentase, akar kuadrat, atau bahkan kalkulasi ilmiah.
 
 ## Pengunaan Teknologi
-Teknologi dalam aplikasi ini menggunakan bahasa pemograman Java (Terdiri HTML dan CSS)
+Teknologi dalam aplikasi ini menggunakan bahasa pemograman Java (HTML dan CSS)
 
 ## Fitur
 Aplikasi kalkulator ini dibuat memiliki berbagai fitur yang dirancang untuk memberikan pengalaman pengguna yang baik dan fungsionalitas yang lengkap. Berikut adalah fitur-fitur utama dari aplikasi kalkulator ini:
@@ -59,6 +59,26 @@ Aplikasi kalkulator ini dibuat memiliki berbagai fitur yang dirancang untuk memb
     - Tombol untuk beralih antara mode gelap dan terang, memberikan fleksibilitas kepada pengguna untuk memilih tampilan yang mereka sukai.
 
 Dengan fitur-fitur ini, aplikasi kalkulator ini dirancang untuk menjadi alat yang praktis dan mudah digunakan untuk melakukan perhitungan sehari-hari.
+
+## AI Support Explanation
+
+**ChatGPT**: ChatGPT adalah sebuah kecerdasan buatan (AI) berbasis pemrosesan bahasa alami (Natural Language Processing / NLP) yang dikembangkan oleh OpenAI. ChatGPT dirancang untuk dapat memahami, memproses, dan merespons bahasa manusia dengan cara yang alami dan kontekstual. 
+   ChatGPT berfungsi sebagai media cerdas yang membantu menyediakan informasi dengan cepat dan mudah kepada penggunanya. Dengan memanfaatkan teknologi pemrosesan bahasa alami (Natural Language Processing), ChatGPT dapat memahami pertanyaan dalam bahasa manusia dan merespons dengan jawaban yang relevan. Ini membuatnya sangat berguna untuk menjawab berbagai macam pertanyaan, mulai dari topik umum seperti sains dan sejarah, hingga hal-hal praktis seperti tips karier, rekomendasi produk, atau penjelasan konsep sulit. Selain itu, ChatGPT juga dapat membantu membuat ringkasan teks, menyusun ide tulisan, bahkan melakukan simulasi percakapan untuk latihan komunikasi. Kemampuan adaptasinya menjadikan ChatGPT efektif sebagai alat digital untuk pendamping belajar, asisten kerja, maupun teman diskusi yang selalu siap memberikan informasi sesuai kebutuhan penggunanya hanya lewat percakapan teks — cepat, fleksibel, yang bisa diakses kapan saja.
+
+
+**BLACKBOX AI** : Blackbox AI adalah sebuah platform kecerdasan buatan yang terutama dirancang untuk membantu developer dan programmer dalam menulis, mencari, dan memahami kode. Berbeda dengan ChatGPT yang lebih umum, Blackbox AI fokus pada konteks coding. Secara sederhana, Blackbox AI bisa disebut sebagai “asisten coding berbasis AI” yang dapat membaca, menganalisis, dan menghasilkan potongan kode dari berbagai bahasa pemrograman.
+
+Kegunaan & manfaat Blackbox AI bagi penggunanya:
+
+1. Autocompletion & code generation: Blackbox AI dapat melengkapi atau bahkan menghasilkan potongan kode secara otomatis berdasarkan perintah atau potongan kode yang sudah ditulis, sehingga mempercepat proses coding.
+
+2. Code search lintas repositori: Memungkinkan pengguna mencari fungsi atau pola kode tertentu dari berbagai sumber terbuka (open-source) secara cepat, tanpa harus membuka repositori satu per satu.
+
+3. Membantu memahami kode: Blackbox AI dapat membantu menjelaskan baris kode yang kompleks atau dokumentasi fungsi tertentu, cocok bagi pemula maupun profesional yang sedang mempelajari codebase besar.
+
+4. Debugging & menemukan bug: Dengan kecerdasan buatannya, Blackbox AI bisa membantu mengidentifikasi kesalahan umum dalam kode serta menyarankan perbaikan.
+
+5. Meningkatkan efisiensi kerja developer: Karena banyak tugas manual seperti mencari snippet, memperbaiki error, atau menulis boilerplate code dapat diotomatisasi, programmer jadi bisa fokus pada logika bisnis dan fitur utama aplikasi mereka.
 
 
 ## SetUp Aplikasi
@@ -463,4 +483,3 @@ Penginstalan aplikasi sederhana Kalkulator
 </body>
 </html>
 
-                
