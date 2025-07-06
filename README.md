@@ -68,18 +68,7 @@ Dengan fitur-fitur ini, aplikasi kalkulator ini dirancang untuk menjadi alat yan
 
 **BLACKBOX AI** : Blackbox AI adalah sebuah platform kecerdasan buatan yang terutama dirancang untuk membantu developer dan programmer dalam menulis, mencari, dan memahami kode. Berbeda dengan ChatGPT yang lebih umum, Blackbox AI fokus pada konteks coding. Secara sederhana, Blackbox AI bisa disebut sebagai “asisten coding berbasis AI” yang dapat membaca, menganalisis, dan menghasilkan potongan kode dari berbagai bahasa pemrograman.
 
-Kegunaan & manfaat Blackbox AI bagi penggunanya:
-
-1. Autocompletion & code generation: Blackbox AI dapat melengkapi atau bahkan menghasilkan potongan kode secara otomatis berdasarkan perintah atau potongan kode yang sudah ditulis, sehingga mempercepat proses coding.
-
-2. Code search lintas repositori: Memungkinkan pengguna mencari fungsi atau pola kode tertentu dari berbagai sumber terbuka (open-source) secara cepat, tanpa harus membuka repositori satu per satu.
-
-3. Membantu memahami kode: Blackbox AI dapat membantu menjelaskan baris kode yang kompleks atau dokumentasi fungsi tertentu, cocok bagi pemula maupun profesional yang sedang mempelajari codebase besar.
-
-4. Debugging & menemukan bug: Dengan kecerdasan buatannya, Blackbox AI bisa membantu mengidentifikasi kesalahan umum dalam kode serta menyarankan perbaikan.
-
-5. Meningkatkan efisiensi kerja developer: Karena banyak tugas manual seperti mencari snippet, memperbaiki error, atau menulis boilerplate code dapat diotomatisasi, programmer jadi bisa fokus pada logika bisnis dan fitur utama aplikasi mereka.
-
+penggunaan AI black box dalam pengembangan aplikasi kalkulator dapat membawa banyak manfaat, termasuk peningkatan fungsionalitas, personalisasi pengalaman pengguna, dan efisiensi waktu. Namun, tantangan yang terkait dengan transparansi, kepercayaan, bias, dan akuntabilitas tidak boleh diabaikan. Untuk memaksimalkan manfaat dan meminimalkan risiko, penting bagi pengembang untuk mempertimbangkan dengan cermat bagaimana AI diterapkan dalam aplikasi dan untuk memastikan bahwa pengguna tetap mendapatkan pengalaman yang adil, transparan, dan dapat dipercaya.
 
 ## SetUp Aplikasi
 
